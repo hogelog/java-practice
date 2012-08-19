@@ -1,0 +1,8 @@
+Bundle-Name: bundle-sample Bundle
+Bundle-Description: bundle sample
+Bundle-Vendor: hogelog
+Bundle-Version: 1.0.0-SNAPSHOT
+Bundle-Activator: org.hogel.Activator
+Export-Package: org.hogel
+Import-Package: org.osgi.framework
+

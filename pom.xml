@@ -12,6 +12,8 @@
 
     <modules>
         <module>logback-sample</module>
+        <module>bundle-sample</module>
+        <module>osgi-sample</module>
     </modules>
 
     <properties>
